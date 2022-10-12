@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Compromissed/compromissed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# description i guess???
 
-Here are some ideas to get you started:
+i'm a python lover and so I know how to code in it. Very cool languague
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working on
+- Working on DreamHQ (https://dc.dreamhq.org) as Owner
+
+## Worked on
+- Worked on Aplaxy Network (https://discord.gg/AKMf7sPSCT) as Owner & Developer
+- Worked on MCPTool (https://github.com/wrrulos/MCPTool) as a collaborator/idea producer
+- Worked on Dream Stealer as Owner (EOL while coding it because of discord updating much and stealer i was based of too so i got brainfucked)
+
+## Friends/Cool people
+- Rulo#4907 (https://github.com/wrrulos)
+- Perro Gamer#6007 (https://github.com/PerroDev)
+- TheRanita#6832 (https://www.youtube.com/TheRanita)
