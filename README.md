@@ -14,4 +14,3 @@ i'm a python lover 🐍 and so I know how to code in it. Very cool languague
 ## Friends/Cool people
 - Rulo#4907 (https://github.com/wrrulos)
 - Perro Gamer#6007 (https://github.com/PerroDev)
-- TheRanita#6832 (https://www.youtube.com/TheRanita)
