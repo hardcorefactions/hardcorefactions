@@ -5,10 +5,10 @@ i'm a python lover 🐍 and so I know how to code in it. Very cool languague
 
 ## Social
 
-- Discord: compromissed <3#8297
+- Discord: compromissed <3#8297 (https://discord.com/users/902950580006322177)
 - Twitter: @ViperSquad13
-- YouTube: [www.youtube.com/compromissed](click here)
-- YouTube 2: [https://www.youtube.com/@znotdev](click here)
+- YouTube: www.youtube.com/@compromissed
+- YouTube 2: www.youtube.com/@znotdev]
 
 ## Working on
 - Working on VexPvP 🛡 (https://discord.vexpvp.club) as Owner & Developer.
