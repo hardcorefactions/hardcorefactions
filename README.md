@@ -1,11 +1,15 @@
 
-# description i guess???
+# Who am I?
 
-i'm a python lover 🐍 and so I know how to code in it. Very cool languague
+I'm a 15 year old python developer and minecraft developer. Currently working at VexPvP Network.
 
 ## Github
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=compromissed&show_icons=true)
+
+## Languagues I know
+
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 ## Status
 
@@ -17,10 +21,6 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 - Twitter: @ViperSquad13
 - YouTube: www.youtube.com/@compromissed
 - YouTube 2: www.youtube.com/@znotdev]
-
-## Languagues I know
-
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 ## Working on
 - Working on VexPvP 🛡 (https://discord.vexpvp.club) as Owner & Developer.
