@@ -20,6 +20,8 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 
 ## Languagues I know
 
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+
 ## Working on
 - Working on VexPvP 🛡 (https://discord.vexpvp.club) as Owner & Developer.
 
