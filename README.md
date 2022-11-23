@@ -11,6 +11,10 @@ I'm a 15 year old python developer and minecraft developer. Currently working at
 
 [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
+## Learning
+
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+
 ## Status
 
 Currently searching for work in Minecraft Servers and others. Contact me on Discord.
@@ -23,13 +27,14 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 - YouTube 2: www.youtube.com/@znotdev]
 
 ## Working on
-- Working on VexPvP 🛡 (https://discord.vexpvp.club) as Owner & Developer.
+- Working on 6Passwords 🟣 (https://discord.gg/diavlo) as Owner.
 
 ## Worked on
 - Worked on Aplaxy Network 🐍 (https://discord.gg/AKMf7sPSCT) as Owner & Developer
+- Worked on VexPvP as Owner & Head Developer
 - Worked on MCPTool 🧨 (https://github.com/wrrulos/MCPTool) as a collaborator/idea producer
 - Working on DreamHQ 📈 (https://dc.dreamhq.org) as Owner
-- Worked on Dream Stealer 💭 as Owner (EOL while coding it because of discord updating much and stealer i was based of too so i got brainfucked)
+- Worked on Dream Stealer 💭 as Owner
 
 ## Friends/Cool people
 - Rulo#4907 (https://github.com/wrrulos)
