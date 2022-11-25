@@ -24,7 +24,7 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 - Discord: compromissed <3#8297 (https://discord.com/users/902950580006322177)
 - Twitter: @ViperSquad13
 - YouTube: www.youtube.com/@compromissed
-- YouTube 2: www.youtube.com/@znotdev]
+- YouTube 2: www.youtube.com/@znotdev
 
 ## Working on
 - Working on 6Passwords 🟣 (https://discord.gg/diavlo) as Owner.
