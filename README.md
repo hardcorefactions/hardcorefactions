@@ -27,14 +27,15 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 - YouTube 2: www.youtube.com/@znotdev
 
 ## Working on
-- Working on 6Passwords 🟣 (https://discord.gg/diavlo) as Owner.
+- Working on 6Passwords 🟣 (https://restorecord.com/verify/6pw) as Owner.
+- Working on Dream Stealer 💭 as Owner and Head Developer.
+- Working on DemolishMC 🔨 as Owner and Developer.
 
 ## Worked on
 - Worked on Aplaxy Network 🐍 (https://discord.gg/AKMf7sPSCT) as Owner & Developer
 - Worked on VexPvP as Owner & Head Developer
 - Worked on MCPTool 🧨 (https://github.com/wrrulos/MCPTool) as a collaborator/idea producer
 - Working on DreamHQ 📈 (https://dc.dreamhq.org) as Owner
-- Worked on Dream Stealer 💭 as Owner
 
 ## Friends/Cool people
 - Rulo#4907 (https://github.com/wrrulos)
