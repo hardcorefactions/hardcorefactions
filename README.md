@@ -1,7 +1,7 @@
 
 # Who am I?
 
-I'm a 15 year old python developer and minecraft developer. Currently working at VexPvP Network.
+I'm a 15 year old python developer and minecraft developer. Currently working at 6Passwords. Searching for proyects (you would need to pay me)
 
 ## Github
 
@@ -27,7 +27,7 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 - YouTube 2: www.youtube.com/@znotdev
 
 ## Working on
-- Working on 6Passwords 🟣 (https://restorecord.com/verify/6pw) as Owner.
+- Working on 6Passwords 🟣 (https://discord.gg/bizarrap) as Owner.
 - Working on Dream Stealer 💭 as Owner and Head Developer.
 - Working on DemolishMC 🔨 as Owner and Developer.
 
