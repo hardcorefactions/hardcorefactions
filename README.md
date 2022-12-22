@@ -1,7 +1,7 @@
 
 # Who am I?
 
-I'm a 15 year old python developer and minecraft developer. Currently working at 6Passwords. Searching for proyects (you would need to pay me)
+I'm a 15 year old python developer and minecraft developer. Currently working at 6Passwords. Searching for projects (you would need to pay me)
 
 ## Github
 
