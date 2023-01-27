@@ -27,11 +27,13 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 - YouTube 2: www.youtube.com/@znotdev
 
 ## Working on
-- Working on 6Passwords 🟣 (https://discord.gg/bizarrap) as Owner.
+- Working on FireMC 🔥 as Head Developer.
+- Working on Kamber 🔥 (https://discord.gg/pescado) as Owner.
 - Working on Dream Stealer 💭 as Owner and Head Developer.
-- Working on DemolishMC 🔨 as Owner and Developer.
 
 ## Worked on
+- Worked on ElectricHCF 🌩 as Owner.
+- Worked on DemolishMC 🔨 as Owner and Developer.
 - Worked on Aplaxy Network 🐍 (https://discord.gg/AKMf7sPSCT) as Owner & Developer
 - Worked on VexPvP as Owner & Head Developer
 - Worked on MCPTool 🧨 (https://github.com/wrrulos/MCPTool) as a collaborator/idea producer
