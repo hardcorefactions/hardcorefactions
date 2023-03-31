@@ -5,7 +5,7 @@ I'm a 15 year old python developer and minecraft developer. Currently working at
 
 ## Github
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=compromissed&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=znotdeev&show_icons=true)
 
 ## Languagues I know
 
@@ -21,23 +21,22 @@ Currently searching for work in Minecraft Servers and others. Contact me on Disc
 
 ## Social
 
-- Discord: compromissed <3#8297 (https://discord.com/users/902950580006322177)
+- Discord: zNotDev#0503 (https://discord.com/users/902950580006322177)
 - Twitter: @ViperSquad13
 - YouTube: www.youtube.com/@compromissed
 - YouTube 2: www.youtube.com/@znotdev
 
 ## Working on
-- Working on FireMC 🔥 as Head Developer.
-- Working on Kamber 🔥 (https://discord.gg/pescado) as Owner.
-- Working on Dream Stealer 💭 as Owner and Head Developer.
+- Working on ElectricHCF 🌩 as Owner.
+- Working on RedZone 🔥 (https://docs.volcanodev.tk) as Owner.
 
 ## Worked on
-- Worked on ElectricHCF 🌩 as Owner.
 - Worked on DemolishMC 🔨 as Owner and Developer.
 - Worked on Aplaxy Network 🐍 (https://discord.gg/AKMf7sPSCT) as Owner & Developer
 - Worked on VexPvP as Owner & Head Developer
 - Worked on MCPTool 🧨 (https://github.com/wrrulos/MCPTool) as a collaborator/idea producer
-- Working on DreamHQ 📈 (https://dc.dreamhq.org) as Owner
+- Worked on DreamHQ 📈 (https://dc.dreamhq.org) as Owner
+- Worked on Dream Stealer 💭 as Owner and Head Developer.
 
 ## Friends/Cool people
 - Rulo#4907 (https://github.com/wrrulos)
