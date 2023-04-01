@@ -4,8 +4,8 @@
 I'm a 15 year old python developer and minecraft developer. Currently working at 6Passwords. Searching for projects (you would need to pay me)
 
 ## Github
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=znotdeev&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=znotdeev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zen-kun04)
 
 ## Languagues I know
 
