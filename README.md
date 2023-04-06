@@ -1,36 +1,32 @@
 
 # Who am I?
 
-I'm a 15 year old python developer and minecraft developer. Currently working at 6Passwords. Searching for projects (you would need to pay me)
+I'm a 15 year old Python & Minecraft developer. Searching for a minecraft server to work at.
 
 ## Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znotdeev)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=znotdeev&show_icons=true&theme=radical)
 
-## Languagues I know
+## Languagues
 
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
-
-## Learning
-
-[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![Known](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
 
 ## Status
 
-Currently searching for work in Minecraft Servers and others. Contact me on Discord.
+Searching for a minecraft server to work at.
 
 ## Social
 
 - Discord: zNotDev#0503 (https://discord.com/users/902950580006322177)
 - Twitter: @ViperSquad13
-- YouTube: www.youtube.com/@compromissed
-- YouTube 2: www.youtube.com/@znotdev
+- YouTube : www.youtube.com/@znotdev
 
 ## Working on
-- Working on ElectricHCF 🌩 as Owner.
-- Working on RedZone 🔥 (https://docs.volcanodev.tk) as Owner.
+- Searching for a job.
 
 ## Worked on
+- Worked on ElectricHCF 🌩 as Owner.
 - Worked on DemolishMC 🔨 as Owner and Developer.
 - Worked on Aplaxy Network 🐍 (https://discord.gg/AKMf7sPSCT) as Owner & Developer
 - Worked on VexPvP as Owner & Head Developer
