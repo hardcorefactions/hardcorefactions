@@ -23,10 +23,9 @@ Searching for a minecraft server to work at.
 - YouTube : www.youtube.com/@znotdev
 
 ## Working on
-- Searching for a job.
+- Working on ElectricHCF 🌩 as Owner.
 
 ## Worked on
-- Worked on ElectricHCF 🌩 as Owner.
 - Worked on DemolishMC 🔨 as Owner and Developer.
 - Worked on Aplaxy Network 🐍 (https://discord.gg/AKMf7sPSCT) as Owner & Developer
 - Worked on VexPvP as Owner & Head Developer
