@@ -1,7 +1,7 @@
 
 # Who am I?
 
-I'm a 15 year old Python & Minecraft developer. Searching for a minecraft server to work at.
+I'm a 14 year old Python & Minecraft developer.
 
 ## Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znotdeev)
@@ -9,8 +9,8 @@ I'm a 15 year old Python & Minecraft developer. Searching for a minecraft server
 
 ## Languagues
 
-[![Known](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![Learning](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
+[![Known](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
 ## Status
 
@@ -18,19 +18,20 @@ Searching for a minecraft server to work at.
 
 ## Social
 
-- Discord: zNotDev#0503 (https://discord.com/users/902950580006322177)
+- Discord: zNotDev#0503 (https://discord.com/users/994585022851989606)
 - Twitter: @ViperSquad13
 - YouTube : www.youtube.com/@znotdev
 
 ## Working on
-- Working on ElectricHCF 🌩 as Owner.
+- Working on ElectricHCF 🌩 (https://discord.gg/f2rr9MSaEg) as Owner.
+- Working on Orbit Development 🛰️ (https://discord.gg/hk3zXwytwz) as Developer.
 
 ## Worked on
 - Worked on DemolishMC 🔨 as Owner and Developer.
-- Worked on Aplaxy Network 🐍 (https://discord.gg/AKMf7sPSCT) as Owner & Developer
+- Worked on Aplaxy Network 🐍 as Owner & Developer
 - Worked on VexPvP as Owner & Head Developer
 - Worked on MCPTool 🧨 (https://github.com/wrrulos/MCPTool) as a collaborator/idea producer
-- Worked on DreamHQ 📈 (https://dc.dreamhq.org) as Owner
+- Worked on DreamHQ 📈 as Owner
 - Worked on Dream Stealer 💭 as Owner and Head Developer.
 
 ## Friends/Cool people
