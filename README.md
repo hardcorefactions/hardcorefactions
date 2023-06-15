@@ -25,6 +25,7 @@ Searching for a minecraft server to work at.
 ## Working on
 - Working on ElectricHCF 🌩 (https://discord.gg/f2rr9MSaEg) as Owner.
 - Working on Orbit Development 🛰️ (https://discord.gg/hk3zXwytwz) as Developer.
+- Working on Duny Studios 🏜️ (https://discord.gg/PF7WdgmwJU) as Owner.
 
 ## Worked on
 - Worked on DemolishMC 🔨 as Owner and Developer.
