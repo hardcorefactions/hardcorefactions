@@ -3,8 +3,8 @@
 Hello! I'm a spanish developer which loves to code. I talk both english & spanish.
 
 ## Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znotdeev)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=znotdeev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardcorefactions)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hardcorefactions&show_icons=true&theme=radical)
 
 ## Languagues
 
