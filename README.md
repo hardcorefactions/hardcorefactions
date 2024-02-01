@@ -1,7 +1,6 @@
+# Description
 
-# Who am I?
-
-I'm a 14 year old Python & Minecraft developer.
+Hello! I'm a spanish developer which loves to code. I talk both english & spanish.
 
 ## Github
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znotdeev)
@@ -9,32 +8,33 @@ I'm a 14 year old Python & Minecraft developer.
 
 ## Languagues
 
-[![Known](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+[![Known](https://skillicons.dev/icons?i=python,java,mysql,bash)](https://skillicons.dev)
 [![Learning](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-
-## Status
-
-Searching for a minecraft server to work at.
 
 ## Social
 
-- Discord: zNotDev#0503 (https://discord.com/users/994585022851989606)
-- Twitter: @ViperSquad13
-- YouTube : www.youtube.com/@znotdev
+```python
+DISCORD_USERNAME = "j.s.e.x.p"
+DISCORD_URL      = "https://discord.com/users/1189188540005875713"
+X_PROFILE        = "https://x.com/ViperSquad13"
+YOUTUBE_CHANNEL  = "https://youtube.com/@jsexp"
+```
 
 ## Working on
-- Working on ElectricHCF 🌩 (https://discord.gg/f2rr9MSaEg) as Owner.
-- Working on Orbit Development 🛰️ (https://discord.gg/hk3zXwytwz) as Developer.
-- Working on Duny Studios 🏜️ (https://discord.gg/PF7WdgmwJU) as Owner.
+- Working on No Steal ⛔ (https://discord.gg/6KHXQvf4wt) as a Directive.
 
 ## Worked on
+- Working on ElectricHCF 🌩 as Owner.
+- Working on Orbit Development 🛰️ as Developer.
+- Working on Duny Studios 🏜️ as Owner.
 - Worked on DemolishMC 🔨 as Owner and Developer.
 - Worked on Aplaxy Network 🐍 as Owner & Developer
 - Worked on VexPvP as Owner & Head Developer
-- Worked on MCPTool 🧨 (https://github.com/wrrulos/MCPTool) as a collaborator/idea producer
+- Worked on MCPTool 🧨 as a collaborator/idea producer
 - Worked on DreamHQ 📈 as Owner
 - Worked on Dream Stealer 💭 as Owner and Head Developer.
 
 ## Friends/Cool people
-- Rulo#4907 (https://github.com/wrrulos)
-- Perro Gamer#6007 (https://github.com/PerroDev)
+- wrrulos (https://github.com/wrrulos)
+- mario (https://github.com/PerroDev)
+- baguette (https://github.com/ZenKun-04)
