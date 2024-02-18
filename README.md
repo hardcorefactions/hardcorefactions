@@ -5,8 +5,8 @@
 Hello! I'm a spanish developer which loves to code. I talk both english & spanish.
 
 ## Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znotdeev)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=znotdeev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardcorefactions)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hardcorefactions&show_icons=true&theme=radical)
 
 ## Languagues
 
@@ -24,6 +24,7 @@ YOUTUBE_CHANNEL  = "https://youtube.com/@jsexp"
 
 ## Working on
 - Working on No Steal ⛔ (https://discord.gg/6KHXQvf4wt) as a Directive.
+- Working on VexPvP as Owner & Head Developer
 
 ## Worked on
 - Working on ElectricHCF 🌩 as Owner.
@@ -31,7 +32,6 @@ YOUTUBE_CHANNEL  = "https://youtube.com/@jsexp"
 - Working on Duny Studios 🏜️ as Owner.
 - Worked on DemolishMC 🔨 as Owner and Developer.
 - Worked on Aplaxy Network 🐍 as Owner & Developer
-- Worked on VexPvP as Owner & Head Developer
 - Worked on MCPTool 🧨 as a collaborator/idea producer
 - Worked on DreamHQ 📈 as Owner
 - Worked on Dream Stealer 💭 as Owner and Head Developer.
