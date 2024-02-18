@@ -15,10 +15,10 @@ Hello! I'm a spanish developer which loves to code. I talk both english & spanis
 
 ## Social
 
-j.s.e.x.p"
-https://discord.com/users/1189188540005875713"
-https://x.com/ViperSquad13"
-https://youtube.com/@jsexp"
+j.s.e.x.p
+https://discord.com/users/1189188540005875713
+https://x.com/ViperSquad13
+https://youtube.com/@jsexp
 
 ## Working on
 Working on No Steal ⛔ (https://discord.gg/6KHXQvf4wt) as a Directive.
