@@ -15,28 +15,26 @@ Hello! I'm a spanish developer which loves to code. I talk both english & spanis
 
 ## Social
 
-```python
-DISCORD_USERNAME = "j.s.e.x.p"
-DISCORD_URL      = "https://discord.com/users/1189188540005875713"
-X_PROFILE        = "https://x.com/ViperSquad13"
-YOUTUBE_CHANNEL  = "https://youtube.com/@jsexp"
-```
+j.s.e.x.p"
+https://discord.com/users/1189188540005875713"
+https://x.com/ViperSquad13"
+https://youtube.com/@jsexp"
 
 ## Working on
-- Working on No Steal ⛔ (https://discord.gg/6KHXQvf4wt) as a Directive.
-- Working on VexPvP as Owner & Head Developer
+Working on No Steal ⛔ (https://discord.gg/6KHXQvf4wt) as a Directive.
+Working on VexPvP as Owner & Head Developer
 
 ## Worked on
-- Working on ElectricHCF 🌩 as Owner.
-- Working on Orbit Development 🛰️ as Developer.
-- Working on Duny Studios 🏜️ as Owner.
-- Worked on DemolishMC 🔨 as Owner and Developer.
-- Worked on Aplaxy Network 🐍 as Owner & Developer
-- Worked on MCPTool 🧨 as a collaborator/idea producer
-- Worked on DreamHQ 📈 as Owner
-- Worked on Dream Stealer 💭 as Owner and Head Developer.
+Working on ElectricHCF 🌩 as Owner.
+Working on Orbit Development 🛰️ as Developer.
+Working on Duny Studios 🏜️ as Owner.
+Worked on DemolishMC 🔨 as Owner and Developer.
+Worked on Aplaxy Network 🐍 as Owner & Developer
+Worked on MCPTool 🧨 as a collaborator/idea producer
+Worked on DreamHQ 📈 as Owner
+Worked on Dream Stealer 💭 as Owner and Head Developer.
 
 ## Friends/Cool people
-- wrrulos (https://github.com/wrrulos)
-- mario (https://github.com/PerroDev)
-- baguette (https://github.com/ZenKun-04)
+- [wrrulos](https://github.com/wrrulos)
+- [mario](https://github.com/PerroDev)
+- [baguette](https://github.com/ZenKun-04)
