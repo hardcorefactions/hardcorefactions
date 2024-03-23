@@ -15,13 +15,13 @@ Hello! I'm a spanish developer which loves to code. I talk both english & spanis
 
 ## Social
 
-j.s.e.x.p<p>
-https://discord.com/users/1189188540005875713<p>
+[j.s.e.x.p](https://discord.com/users/1189188540005875713)<p>
 https://x.com/ViperSquad13<p>
 https://youtube.com/@jsexp<p>
 
 ## Working on
-Working on No Steal ⛔ (https://discord.gg/6KHXQvf4wt) as a Directive.<p>
+Working on NetShield ⛔ (https://discord.gg/6KHXQvf4wt) as an Owner.<p>
+Working on Neptune Community as the CEO and Developer.<p>
 Working on VexPvP as Owner & Head Developer<p>
 
 ## Worked on
