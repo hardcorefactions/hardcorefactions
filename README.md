@@ -1,11 +1,12 @@
-#                                    [jsexp](https://jsexp.wtf)
+[Website](https://jsexp.wtf)
+
 ## Working on
 - Working on [Moral Network](https://discord.moral.rip) as a Co-Owner, Developer and System Administrator
 - Working on [MineHades](https://discord.gg/minehades) as a System Administrator
 - Working on [NetShield](https://discord.gg/6KHXQvf4wt) as an Owner
-- Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as the CEO and Developer
-- Working on [VexPvP Network](https://discord.gg/fvSXRX5cpM) as Owner & Head Developer
-- Working on ElectricHCF 🌩 as Owner.
+- Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a the CEO and Developer
+- Working on [VexPvP Network](https://discord.gg/fvSXRX5cpM) as a Owner & Head Developer
+- Working on [ElectricHCF](https://discord.gg/U5ECVTwgcH) as a Owner.
 
 ## Worked on
 - Worked on Orbit Development 🛰️ as a Developer.
