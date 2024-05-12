@@ -19,8 +19,7 @@
 
 ## Languagues
 
-[![Known](https://skillicons.dev/icons?i=python,java,mysql,bash)](https://skillicons.dev)
-[![Learning](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![Known](https://skillicons.dev/icons?i=python,java,javascript,mysql,mongo,redis,flask,express,nginx)](https://skillicons.dev)
 
 ## Friends/Cool people
 [wrrulos](https://github.com/wrrulos), [mario](https://github.com/PerroDev) and [baguette](https://github.com/ZenKun-04)
