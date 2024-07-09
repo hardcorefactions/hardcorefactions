@@ -8,9 +8,9 @@
 - Working on [NetShield](https://discord.gg/6KHXQvf4wt) as an Owner
 - Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a the CEO and Developer
 - Working on [VexPvP Network](https://discord.gg/fvSXRX5cpM) as a Owner & Head Developer
-- Working on [ElectricHCF](https://discord.gg/U5ECVTwgcH) as a Owner.
 
 ## Worked on
+- Worked on ElectricHCF 🌩️ as a Owner.
 - Worked on Orbit Development 🛰️ as a Developer.
 - Worked on Duny Studios 🏜️ as a Owner and Main Developer.
 - Worked on DemolishMC 🔨 as a Owner and Developer.
