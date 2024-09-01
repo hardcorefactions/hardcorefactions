@@ -3,13 +3,13 @@
 </div>
 
 ## Working on
-- Working on [Moral Network](https://discord.moral.rip) as a Co-Owner, Developer and System Administrator
+- Working on [VexPvP Network](https://discord.vexpvp.club) as a Owner, Head Developer and System Administrator
 - Working on [MineHades](https://discord.gg/minehades) as a System Administrator
 - Working on [NetShield](https://discord.gg/6KHXQvf4wt) as an Owner
-- Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a the CEO and Developer
+- Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a CEO & Developer
 
 ## Worked on
-- Worked on VexPvP Network as a Owner & Head Developer
+- Worked on [Moral Network](https://discord.moral.rip) as a Co-Owner, Developer and System Administrator
 - Worked on ElectricHCF 🌩️ as a Owner.
 - Worked on Orbit Development 🛰️ as a Developer.
 - Worked on Duny Studios 🏜️ as a Owner and Main Developer.
