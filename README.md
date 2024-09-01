@@ -9,7 +9,7 @@
 - Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a CEO & Developer
 
 ## Worked on
-- Worked on [Moral Network](https://discord.moral.rip) as a Co-Owner, Developer and System Administrator
+- Worked on Moral Network as a Co-Owner, Developer and System Administrator
 - Worked on ElectricHCF 🌩️ as a Owner.
 - Worked on Orbit Development 🛰️ as a Developer.
 - Worked on Duny Studios 🏜️ as a Owner and Main Developer.
