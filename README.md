@@ -4,6 +4,7 @@
 
 ## Working on
 - Working on [VexPvP Network](https://discord.vexpvp.club) as a Owner, Head Developer and System Administrator
+- Working on [WaterMC Network](https://discord.watermc.gg) as a Developer
 - Working on [MineHades](https://discord.gg/minehades) as a System Administrator
 - Working on [NetShield](https://discord.gg/6KHXQvf4wt) as an Owner
 - Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a CEO & Developer
