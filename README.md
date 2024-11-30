@@ -4,12 +4,12 @@
 
 ## Working on
 - Working on [VexPvP Network](https://discord.vexpvp.club) as a Owner, Head Developer and System Administrator
-- Working on [Faction Network](https://discord.gg/faction) as a System Administrator
+- Working on [Faction Network](https://discord.gg/factionetwork) as a System Administrator
 - Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a CEO & Developer
 
 ## Worked on
 - Worked on MineHades as a System Administrator
-- Worked on [WaterMC Network](https://discord.watermc.gg) as a Developer
+- Worked on WaterMC Network as a Developer
 - Worked on Moral Network as a Co-Owner, Developer and System Administrator
 - Worked on ElectricHCF 🌩️ as a Owner.
 - Worked on Orbit Development 🛰️ as a Developer.
