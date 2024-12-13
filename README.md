@@ -43,7 +43,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![Languages](https://skillicons.dev/icons?i=python,java,javascript,mysql,mongo,redis,flask,express,nginx)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,mysql,mongodb,redis,flask,express,nginx,bash,cloudflare,debian,discord,bots,docker,sqlite,vscode)](https://skillicons.dev)
 
 ---
 
