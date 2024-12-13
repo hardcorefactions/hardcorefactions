@@ -1,28 +1,62 @@
 <div align="center">
-  <a href=https://jsexp.wtf>My website</a>
+  <h1>👋 Welcome to My Profile!</h1>
+  <a href="https://jsexp.wtf" target="_blank">🌐 Visit My Website</a>
 </div>
 
-## Working on
-- Working on [VexPvP Network](https://discord.vexpvp.club) as a Owner, Head Developer and System Administrator
-- Working on [Faction Network](https://discord.gg/factionetwork) as a System Administrator
-- Working on [Neptune Community](https://discord.gg/Y3wtcd68WB) as a CEO & Developer
+---
 
-## Worked on
-- Worked on MineHades as a System Administrator
-- Worked on WaterMC Network as a Developer
-- Worked on Moral Network as a Co-Owner, Developer and System Administrator
-- Worked on ElectricHCF 🌩️ as a Owner.
-- Worked on Orbit Development 🛰️ as a Developer.
-- Worked on Duny Studios 🏜️ as a Owner and Main Developer.
-- Worked on DemolishMC 🔨 as a Owner and Developer.
-- Worked on Aplaxy Network 🐍 as a Owner & Developer
-- Worked on MCPTool 🧨 as a collaborator/idea producer
-- Worked on DreamHQ 📈 as a Owner
-- Worked on Dream Stealer 💭 as a Owner and Head Developer.
+## 🚀 Current Projects
 
-## Languagues
+- **[VexPvP Network](https://discord.vexpvp.club)**  
+  <small>Owner, Head Developer, System Administrator</small>
+- **[Faction Network](https://discord.gg/factionetwork)**  
+  <small>System Administrator</small>
+- **[Neptune Community](https://discord.gg/Y3wtcd68WB)**  
+  <small>CEO & Developer</small>
 
-[![Known](https://skillicons.dev/icons?i=python,java,javascript,mysql,mongo,redis,flask,express,nginx)](https://skillicons.dev)
+---
 
-## Friends/Cool people
-[wrrulos](https://github.com/wrrulos), [mario](https://github.com/PerroDev) and [baguette](https://github.com/ZenKun-04)
+## 📜 Past Projects
+
+- **MineHades**  
+  <small>System Administrator</small>
+- **WaterMC Network**  
+  <small>Developer</small>
+- **Moral Network**  
+  <small>Co-Owner, Developer, System Administrator</small>
+- **ElectricHCF 🌩️**  
+  <small>Owner</small>
+- **Orbit Development 🛰️**  
+  <small>Developer</small>
+- **Duny Studios 🏜️**  
+  <small>Owner, Main Developer</small>
+- **DemolishMC 🔨**  
+  <small>Owner, Developer</small>
+- **Aplaxy Network 🐍**  
+  <small>Owner, Developer</small>
+- **MCPTool 🧨**  
+  <small>Collaborator, Idea Producer</small>
+- **DreamHQ 📈**  
+  <small>Owner</small>
+- **Dream Stealer 💭**  
+  <small>Owner, Head Developer</small>
+
+---
+
+## 🛠️ Languages & Tools
+
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,mysql,mongo,redis,flask,express,nginx)](https://skillicons.dev)
+
+---
+
+## 💡 Friends & Cool People
+
+- [wrrulos](https://github.com/wrrulos)
+- [mario](https://github.com/PerroDev)
+- [baguette](https://github.com/ZenKun-04)
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting! 🚀</h3>
+</div>
