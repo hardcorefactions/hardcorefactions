@@ -3,8 +3,6 @@
   <a href="https://jsexp.wtf" target="_blank">🌐 Visit My Website</a>
 </div>
 
----
-
 ## 🚀 Current Projects
 
 - **[VexPvP Network](https://discord.vexpvp.club)**  
