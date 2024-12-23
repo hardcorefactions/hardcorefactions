@@ -7,6 +7,8 @@
 
 - **[VexPvP Network](https://discord.vexpvp.club)**  
   <small>Owner, Head Developer, System Administrator</small>
+- **[GalanthusMC Network](https://discord.galanthusmc.net)**  
+  <small>Co-Owner, Developer</small>
 - **[Faction Network](https://discord.gg/factionetwork)**  
   <small>System Administrator</small>
 - **[Neptune Community](https://discord.gg/Y3wtcd68WB)**  
