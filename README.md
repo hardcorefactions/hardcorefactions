@@ -53,7 +53,7 @@
 
 - [wrrulos](https://github.com/wrrulos)
 - [mario](https://github.com/PerroDev)
-- [baguette](https://github.com/ZenKun-04)
+- [baguette](https://github.com/Zen-kun04)
 
 ---
 
