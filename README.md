@@ -3,6 +3,9 @@
   <a href="https://jsexp.wtf" target="_blank">🌐 Visit My Website</a>
 </div>
 
+## 🤔 Who am I?
+Hello! My name is jsexp and I am just another curious Developer and System Administrator, I have worked on minecraft clients and plugin development so if you want any of that just hit me on my Discord.
+
 ## 🚀 Current Projects
 
 - **[VexPvP Network](https://discord.vexpvp.club)**  
