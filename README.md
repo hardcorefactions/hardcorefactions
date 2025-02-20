@@ -4,7 +4,8 @@
 </div>
 
 ## 🤔 Who am I?
-Hello! My name is jsexp and I am just another curious Developer and System Administrator, I have worked on minecraft clients and plugin development so if you want any of that just hit me on my Discord.
+Hello! I'm **jsexp**, a Developer and System Administrator with experience in **Minecraft client and plugin development**. I enjoy working on innovative projects and optimizing systems for better performance.  
+If you're interested in **Minecraft development** or have any related inquiries, feel free to reach out to me on **Discord**!  
 
 ## 🚀 Current Projects
 
