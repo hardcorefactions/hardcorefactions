@@ -7,17 +7,21 @@
 
 - **[VexPvP Network](https://discord.vexpvp.club)**  
   <small>Owner, Head Developer, System Administrator</small>
-- **[GalanthusMC Network](https://discord.galanthusmc.net)**  
-  <small>Co-Owner, Developer</small>
-- **[Faction Network](https://discord.gg/factionetwork)**  
-  <small>System Administrator</small>
 - **[Neptune Community](https://discord.gg/Y3wtcd68WB)**  
   <small>CEO & Developer</small>
+- **[Faction Network](https://discord.gg/factionetwork)**  
+  <small>System Administrator</small>
+- **[Fall Network](https://discord.gg/JKsAJZFQtq)**  
+  <small>System Administrator</small>
+- **[BunderCraft Network](https://discord.gg/bundercraft)**  
+  <small>System Administrator</small>
 
 ---
 
 ## 📜 Past Projects
 
+- **GalanthusMC Network**
+  <small>Co-Owner, Head Developer</small>
 - **MineHades**  
   <small>System Administrator</small>
 - **WaterMC Network**  
