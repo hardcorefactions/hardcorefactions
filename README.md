@@ -4,7 +4,7 @@
 </div>
 
 ## 🤔 Who am I?
-Hello! I'm **jsexp**, a Developer and System Administrator with experience in **Minecraft client and plugin development**. I enjoy working on innovative projects and optimizing systems for better performance.  
+Hello! I'm **jsexp**, a Developer and System Administrator with experience in **Minecraft client and plugin development**. I enjoy working on innovative projects and optimizing systems for better performance and security related themes. I'm really into it!  
 If you're interested in **Minecraft development** or have any related inquiries, feel free to reach out to me on **Discord**!  
 
 ## 🚀 Current Projects
