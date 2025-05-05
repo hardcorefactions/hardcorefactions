@@ -60,7 +60,7 @@ If you're interested in **Minecraft development** or have any related inquiries,
 ## 💡 Friends & Cool People
 
 - [wrrulos](https://github.com/wrrulos)
-- [mario](https://github.com/PerroDev)
+- [mario](https://github.com/ImJustMario)
 - [baguette](https://github.com/Zen-kun04)
 
 ---
