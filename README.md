@@ -9,22 +9,20 @@ If you're interested in **Minecraft development** or have any related inquiries,
 
 ## 🚀 Current Projects
 
-- **[VexPvP Network](https://discord.vexpvp.club)**  
-  <small>Owner, Head Developer, System Administrator</small>
-- **[Neptune Community](https://discord.gg/Y3wtcd68WB)**  
-  <small>CEO & Developer</small>
 - **[Faction Network](https://discord.gg/factionetwork)**  
-  <small>System Administrator</small>
-- **[Fall Network](https://discord.gg/JKsAJZFQtq)**  
   <small>System Administrator</small>
 - **[BunderCraft Network](https://discord.gg/bundercraft)**  
   <small>System Administrator</small>
+- **[Ranked Games](https://discord.gg/rankedrip)**  
+  <small>Co-Owner, System Administrator, Developer</small>
+- **[VexPvP Network](https://discord.vexpvp.club)**  
+  <small>Owner, Head Developer, System Administrator</small>
 
 ---
 
 ## 📜 Past Projects
 
-- **GalanthusMC Network**
+- **GalanthusMC Network**  
   <small>Co-Owner, Head Developer</small>
 - **MineHades**  
   <small>System Administrator</small>
