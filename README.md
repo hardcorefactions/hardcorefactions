@@ -20,9 +20,9 @@ If you're interested in **Minecraft development** or have any related inquiries,
 
 ## 📜 Past Projects
 
-- **VexPvP Network**
+- **VexPvP Network**   
   <small>Owner, Head Developer, System Admin</small>
-- **Ranked Games**  
+- **Ranked Games**   
   <small>Co-Owner, System Administrator, Developer</small>
 - **GalanthusMC Network**  
   <small>Co-Owner, Head Developer</small>
