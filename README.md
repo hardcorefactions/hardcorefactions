@@ -12,7 +12,7 @@ If you're interested in **Minecraft development** or have any related inquiries,
 - **[Faction Network](https://discord.gg/factionetwork)**  
   <small>System Administrator</small>
 - **[BunderCraft Network](https://discord.gg/bundercraft)**  
-  <small>System Administrator</small>
+  <small>Owner and System Administrator</small>
 - **[Teamfight](https://discord.gg/teamfight)**  
   <small>Owner, System Administrator, Developer</small>
 
