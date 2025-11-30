@@ -53,7 +53,7 @@ If you're interested in **Minecraft development** or have any related inquiries,
 
 ## 🛠️ Languages & Tools
 
-[![Languages](https://skillicons.dev/icons?i=python,java,javascript,mysql,mongodb,redis,flask,express,nginx,bash,cloudflare,debian,discord,bots,docker,sqlite,vscode)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql,mongodb,redis,bash,docker,sqlite)](https://skillicons.dev)
 
 ---
 
