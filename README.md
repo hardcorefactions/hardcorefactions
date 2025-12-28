@@ -20,7 +20,7 @@ If you're interested in **Minecraft development** or have any related inquiries,
 
 ## 📜 Past Projects
 
-- **Teamfight Network**
+- **Teamfight Network**   
   <small>Owner, System Administrator, Developer</small>
 - **VexPvP Network**   
   <small>Owner, Head Developer, System Admin</small>
