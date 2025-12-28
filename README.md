@@ -13,13 +13,15 @@ If you're interested in **Minecraft development** or have any related inquiries,
   <small>System Administrator</small>
 - **[BunderCraft Network](https://discord.gg/bundercraft)**  
   <small>Owner and System Administrator</small>
-- **[Teamfight](https://discord.gg/teamfight)**  
-  <small>Owner, System Administrator, Developer</small>
+- **[StrafePvP](https://discord.gg/WUYgzx2TdW)**  
+  <small>System Administrator, Developer</small>
 
 ---
 
 ## 📜 Past Projects
 
+- **Teamfight Network**
+  <small>Owner, System Administrator, Developer</small>
 - **VexPvP Network**   
   <small>Owner, Head Developer, System Admin</small>
 - **Ranked Games**   
