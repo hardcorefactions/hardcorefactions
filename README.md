@@ -1,61 +1,81 @@
 <div align="center">
   <h1>👋 Welcome to My Profile!</h1>
-  <a href="https://jsexp.wtf" target="_blank">🌐 Visit My Website</a>
 </div>
 
 ## 🤔 Who am I?
-Hello! I'm **jsexp**, a Developer and System Administrator with experience in **Minecraft client and plugin development**. I enjoy working on innovative projects and optimizing systems for better performance and security related themes. I'm really into it!  
-If you're interested in **Minecraft development** or have any related inquiries, feel free to reach out to me on **Discord**!  
+Heya! I'm **jsexp**, a Developer and System Administrator with experience in **Minecraft client and plugin development**. I've been working in this space since **2021**, building and optimizing systems for performance and security. I'm really into it!
+ 
+Interested in Minecraft development or have a related inquiry? Reach out below 👇
+
+## 📫 Contact
+ 
+[![Discord](https://img.shields.io/badge/Discord-jsexp-5865F2?logo=discord&logoColor=white)](discord.com/users/1224394793765834814)
+
+---
 
 ## 🚀 Current Projects
 
-- **[Faction Network](https://discord.gg/factionetwork)**  
-  <small>System Administrator</small>
-- **[BunderCraft Network](https://discord.gg/bundercraft)**  
-  <small>Owner and System Administrator</small>
-- **[StrafePvP](https://discord.gg/WUYgzx2TdW)**  
-  <small>System Administrator, Developer</small>
+| Project | Role | Description |
+|---|---|---|
+| **[BunderCraft Network](https://discord.gg/bundercraft)** | Owner, System Administrator | BoxPvP Network with over 1,000 members on Discord. |
+| **[StrafePvP](https://discord.gg/WUYgzx2TdW)** | Co-Owner, System Administrator, Developer | 1.8 HCF Network focused on gameplay |
+| **[HolyPvP Network](https://discord.gg/Gt3qXzkYKK)** | Head Developer | Well-known 1.8 server, pioneer in Spanish HCF. |
 
 ---
 
 ## 📜 Past Projects
 
-- **Teamfight Network**   
-  <small>Owner, System Administrator, Developer</small>
-- **VexPvP Network**   
-  <small>Owner, Head Developer, System Admin</small>
-- **Ranked Games**   
-  <small>Co-Owner, System Administrator, Developer</small>
-- **GalanthusMC Network**  
-  <small>Co-Owner, Head Developer</small>
-- **MineHades**  
-  <small>System Administrator</small>
-- **WaterMC Network**  
-  <small>Developer</small>
-- **Moral Network**  
-  <small>Co-Owner, Developer, System Administrator</small>
-- **ElectricHCF 🌩️**  
-  <small>Owner</small>
-- **Orbit Development 🛰️**  
-  <small>Developer</small>
-- **Duny Studios 🏜️**  
-  <small>Owner, Main Developer</small>
-- **DemolishMC 🔨**  
-  <small>Owner, Developer</small>
-- **Aplaxy Network 🐍**  
-  <small>Owner, Developer</small>
-- **MCPTool 🧨**  
-  <small>Collaborator, Idea Producer</small>
-- **DreamHQ 📈**  
-  <small>Owner</small>
-- **Dream Stealer 💭**  
-  <small>Owner, Head Developer</small>
+Some of the networks and tools I've built or contributed to over the years:
+ 
+- **OGTimes Network** — Owner, Developer
+- **HadesMC Network** — Developer
+- **Neptune Community** — CEO, Developer
+- **CynicPvP Network** — Developer
+- **Faction Network** — System Administrator, Developer
+
+<details>
+<summary>🗂️ Show more (additional projects)</summary>
+
+- **Teamfight Network** — Owner, System Administrator, Developer
+- **VexPvP Network** — Owner, Head Developer, System Administrator
+- **Ranked Games** — Co-Owner, System Administrator, Developer
+- **GalanthusMC Network** — Co-Owner, Head Developer
+- **MineHades** — System Administrator
+- **WaterMC Network** — Developer
+- **Moral Network** — Co-Owner, Developer, System Administrator
+- **ElectricHCF** 🌩️ — Owner
+- **Orbit Development** 🛰️ — Developer
+- **Duny Studios** 🏜️ — Owner, Main Developer
+- **DemolishMC** 🔨 — Owner, Developer
+- **Aplaxy Network** 🐍 — Owner, Developer
+- **MCPTool** 🧨 — Collaborator, Idea Producer
+- **DreamHQ** 📈 — Owner
+- **Dream Stealer** 💭 — Owner, Head Developer
+
+</details>
 
 ---
 
 ## 🛠️ Languages & Tools
 
 [![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql,mongodb,redis,bash,docker,sqlite)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+ 
+<div align="center">
+<table>
+<tr>
+<td valign="middle">
+<img src="https://github-stats-extended.vercel.app/api?username=hardcorefactions&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</td>
+<td valign="middle">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=hardcorefactions&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs" />
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
